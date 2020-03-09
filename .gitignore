@@ -1,0 +1,3 @@
+# Ignoring .gradle directory
+.gradle
+

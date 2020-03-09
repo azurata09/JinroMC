@@ -1,0 +1,6 @@
+name: JinroMC
+version: 0.1
+main: com.github.jinromc.JinroMC
+description: The plugin of Spigot to play a party game "Are You a Werewolf?"
+author: azurata
+
